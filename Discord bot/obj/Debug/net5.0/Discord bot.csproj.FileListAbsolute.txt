@@ -1,0 +1,74 @@
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\Discord bot.exe
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\Discord bot.deps.json
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\Discord bot.runtimeconfig.json
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\Discord bot.runtimeconfig.dev.json
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\Discord bot.dll
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\ref\Discord bot.dll
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\Discord bot.pdb
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\Discord.Net.Commands.dll
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\Discord.Net.Core.dll
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\Discord.Net.Rest.dll
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\Discord.Net.Webhook.dll
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\Discord.Net.WebSocket.dll
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\NetEscapades.Configuration.Yaml.dll
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\System.Interactive.Async.dll
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\System.Linq.Async.dll
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\YamlDotNet.dll
+D:\İlknur\Discord boot\Discord boot\obj\Debug\net5.0\Discord bot.csprojAssemblyReference.cache
+D:\İlknur\Discord boot\Discord boot\obj\Debug\net5.0\Discord bot.GeneratedMSBuildEditorConfig.editorconfig
+D:\İlknur\Discord boot\Discord boot\obj\Debug\net5.0\Discord bot.AssemblyInfoInputs.cache
+D:\İlknur\Discord boot\Discord boot\obj\Debug\net5.0\Discord bot.AssemblyInfo.cs
+D:\İlknur\Discord boot\Discord boot\obj\Debug\net5.0\Discord bot.csproj.CoreCompileInputs.cache
+D:\İlknur\Discord boot\Discord boot\obj\Debug\net5.0\Discord bot.csproj.CopyComplete
+D:\İlknur\Discord boot\Discord boot\obj\Debug\net5.0\Discord bot.dll
+D:\İlknur\Discord boot\Discord boot\obj\Debug\net5.0\ref\Discord bot.dll
+D:\İlknur\Discord boot\Discord boot\obj\Debug\net5.0\Discord bot.pdb
+D:\İlknur\Discord boot\Discord boot\obj\Debug\net5.0\Discord bot.genruntimeconfig.cache
+D:\İlknur\Discord boot\Discord boot\bin\Debug\net5.0\_config.yml
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\Discord bot.exe
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\_config.yml
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\Discord bot.deps.json
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\Discord bot.runtimeconfig.json
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\Discord bot.runtimeconfig.dev.json
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\Discord bot.dll
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\ref\Discord bot.dll
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\Discord bot.pdb
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\Discord.Net.Commands.dll
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\Discord.Net.Core.dll
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\Discord.Net.Rest.dll
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\Discord.Net.Webhook.dll
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\Discord.Net.WebSocket.dll
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\NetEscapades.Configuration.Yaml.dll
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\System.Interactive.Async.dll
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\System.Linq.Async.dll
+D:\İlknur\Discord bot\Discord bot\bin\Debug\net5.0\YamlDotNet.dll
+D:\İlknur\Discord bot\Discord bot\obj\Debug\net5.0\Discord bot.csprojAssemblyReference.cache
+D:\İlknur\Discord bot\Discord bot\obj\Debug\net5.0\Discord bot.GeneratedMSBuildEditorConfig.editorconfig
+D:\İlknur\Discord bot\Discord bot\obj\Debug\net5.0\Discord bot.AssemblyInfoInputs.cache
+D:\İlknur\Discord bot\Discord bot\obj\Debug\net5.0\Discord bot.AssemblyInfo.cs
+D:\İlknur\Discord bot\Discord bot\obj\Debug\net5.0\Discord bot.csproj.CoreCompileInputs.cache
+D:\İlknur\Discord bot\Discord bot\obj\Debug\net5.0\Discord bot.csproj.CopyComplete
+D:\İlknur\Discord bot\Discord bot\obj\Debug\net5.0\Discord bot.dll
+D:\İlknur\Discord bot\Discord bot\obj\Debug\net5.0\ref\Discord bot.dll
+D:\İlknur\Discord bot\Discord bot\obj\Debug\net5.0\Discord bot.pdb
+D:\İlknur\Discord bot\Discord bot\obj\Debug\net5.0\Discord bot.genruntimeconfig.cache

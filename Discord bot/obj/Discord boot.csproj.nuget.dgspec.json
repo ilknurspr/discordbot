@@ -1,0 +1,96 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\İlknur\\Discord boot\\Discord boot\\Discord boot.csproj": {}
+  },
+  "projects": {
+    "D:\\İlknur\\Discord boot\\Discord boot\\Discord boot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\İlknur\\Discord boot\\Discord boot\\Discord boot.csproj",
+        "projectName": "Discord boot",
+        "projectPath": "D:\\İlknur\\Discord boot\\Discord boot\\Discord boot.csproj",
+        "packagesPath": "C:\\Users\\ilknu\\.nuget\\packages\\",
+        "outputPath": "D:\\İlknur\\Discord boot\\Discord boot\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ilknu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Discord.Net.Commands": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Discord.Net.Core": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Discord.Net.WebSocket": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "NetEscapades.Configuration.Yaml": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
