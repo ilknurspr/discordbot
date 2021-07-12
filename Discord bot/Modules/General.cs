@@ -17,6 +17,12 @@ namespace Discord_bot.Modules
             await Context.Channel.SendMessageAsync("Pong!");
         }
 
+        [Command("Hi")]
+        public async Task Hi()
+        {
+            await Context.Channel.SendMessageAsync("Hello there!");
+        }
+
         [Command("info")]
         public async Task Info(SocketGuildUser user = null)
         {
@@ -24,7 +30,7 @@ namespace Discord_bot.Modules
             {
                 var builder = new EmbedBuilder()
                 .WithThumbnailUrl(Context.User.GetAvatarUrl() ?? Context.User.GetDefaultAvatarUrl())
-                .WithDescription("In this message you can see some information about yourself")
+                .WithDescription($"In this message you can see some information about {user.Username}")
                 .WithColor(new Color(149, 37, 153))
                 .AddField("User ID", Context.User.Id, true)
                 .AddField("Created at", Context.User.CreatedAt.ToString("dd/MM/yyyy"))
